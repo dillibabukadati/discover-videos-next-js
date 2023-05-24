@@ -10,6 +10,7 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap"
           rel="stylesheet"
         />
+        <meta name="description" content="Explore a world of captivating videos on the Discover Videos website. Immerse yourself in a wide range of engaging and entertaining content, curated to delight and inspire. Discover Videos brings you a seamless browsing experience powered by Next.js, providing fast and efficient access to a diverse collection of videos. Start your journey today and unlock a world of captivating visual storytelling at Discover Videos." />
       </Head>
       <body>
         <Main />
